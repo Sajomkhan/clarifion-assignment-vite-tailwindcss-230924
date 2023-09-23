@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+
+.container{
+    @apply 2xl:w-10/12 px-3
+}
+
+.text_gray{
+    @apply text-gray-700
+}
+
+.text_white{
+    @apply text-gray-300
+}
+
+
+
+@tailwind utilities;
+
+
